@@ -1,6 +1,8 @@
 # Proyecto de Análisis de Imágenes para Detección de Hormigas en Plantas
 **Este proyecto tiene como objetivo desarrollar un sistema de análisis de imágenes en Python para la detección de bordes de hormigas negras en plantas. Utiliza varios algoritmos de procesamiento de imágenes para identificar y delinear los bordes de las hormigas en las imágenes de las plantas.**
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/Imagenes/Captura.JPG)
+
 ## Algoritmos Utilizados
 - Subir la Imagen: Carga la imagen de la planta con las hormigas.
 - Canales RGB: Analiza los diferentes canales RGB de la imagen para resaltar las características.
